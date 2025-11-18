@@ -7,3 +7,7 @@ Burger_shoppingcart - Arithmetic Operations
 Hypotenuse - Math Class
 Circle_sphere - Math Class
 Compound_interest_calculator - printf
+Email_extractor - substring
+Weight_converter 
+Temperature_converter - ternary operator
+Calculator - switch case
